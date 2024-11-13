@@ -1,4 +1,4 @@
-SECOND CREATE A PHP SCRIPT
+''
 <?php
 $servername = "localhost";
 $username = "root";

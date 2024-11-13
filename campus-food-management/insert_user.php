@@ -1,9 +1,9 @@
-SECOND CREATE A PHP SCRIPT
+''
 <?php
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "esp32_data";
+$dbname = "campus_food";
 
 // Create a database connection
 $conn = new mysqli($servername, $username, $password, $dbname);
